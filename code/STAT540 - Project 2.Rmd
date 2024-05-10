@@ -212,3 +212,8 @@ reduced_polls %>%
 
 ```
 I used boxplots to visualize the data and compare the distribution of bias terms for races in each year. Most years do not have outliers, or only have one outlier, with the exception of 2008. The distributions are not exactly centered around 0. Since the bias term is calculated using spread means using Republican votes - Democrat votes, elections centered below 0 favor Democrats, while elections centered above 0 favor Republicans. Aside from the Senate election in 2008, most of the elections from 2008 - 2012 were biased towards Democrats, while the elections from 2014 - 2016 were biased towards Republicans. 
+
+## Conclusion
+The results of this analysis aim to provide insights into the nature and extent of biases present in election polls. These findings serve to shed light on the factors influencing poll accuracy and contribute to discussions on improving polling methodologies.
+
+
